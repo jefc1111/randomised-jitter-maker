@@ -1,4 +1,4 @@
-### Randomised Jitter Maker
+# Randomised Jitter Maker
 
 Uses the `tc` utility to create network latency and jitter, changing the value periodically to simulate remote networks' variable network conditions.
 
